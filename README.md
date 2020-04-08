@@ -125,6 +125,9 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Dev Ops Foundations: Chaos Engineering](https://www.linkedin.com/learning/devops-foundations-chaos-engineering/)
 * [Resilience Engineering: Short Course)(http://csel.org.ohio-state.edu/ResilienceEngineering.html)
 * [The Chaos Engineering Collection](https://medium.com/@adhorn/the-chaos-engineering-collection-5e188d6a90e2)
+* [Run your First Chaos Experiment](https://dzone.com/articles/run-your-first-chaos-experiment-in-10-minutes)
+* [Intall Gremlin locally with Docker for Mac](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/)
+* [The First 5 Chaos Experiments to Run on Kubernetes](https://www.infoq.com/vendorcontent/show.action?vcr=5332)
 
 ## Notable Tools
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
