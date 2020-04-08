@@ -189,6 +189,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM](https://arxiv.org/abs/1805.05246)
 * [TripleAgent: Monitoring, Perturbation And Failure-obliviousness for Automated Resilience Improvement in Java Applications](https://arxiv.org/abs/1812.10706)
 * [Lineage-driven Fault Injection](https://dl.acm.org/citation.cfm?id=2723711)
+* [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+* [Allianz Risk Barometer](https://www.agcs.allianz.com/content/dam/onemarketing/agcs/agcs/reports/Allianz-Risk-Barometer-2019.pdf)
 
 ## Gamedays
 * [Target: What is a Gameday?](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html) - Chaos Gamedays experience by Target.
